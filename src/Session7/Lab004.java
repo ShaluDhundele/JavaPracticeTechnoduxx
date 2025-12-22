@@ -1,8 +1,8 @@
 package Session7;
-
+// Swap Program
 public class Lab004 {
     public static void main(String[] args) {
-        // Swap Program
+
         int a= 100;
         int b= 50;
         a=a-b;

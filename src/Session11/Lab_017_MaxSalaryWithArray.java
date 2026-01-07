@@ -1,6 +1,6 @@
 package Session11;
 
-public class Lab_017_MaxMarksWithArray {
+public class Lab_017_MaxSalaryWithArray {
     public static void main(String[] args) {
         double[] marks = {80, 12, 5, 78, 34, 56, 90};
         double mark = marks[0];
